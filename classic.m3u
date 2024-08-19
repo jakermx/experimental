@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="247Retro.us" tvg-logo="https://i.imgur.com/QqQL7ss.png" group-title="Classic",480p
-https://b-hls-01.doppiocdn.live/hls/166454098/166454098_480p.m3u8
+#EXTINF:-1 tvg-id="247Retro.us" tvg-logo="https://i.imgur.com/QqQL7ss.png" group-title="Stripchat",Gigi
+https://b-hls-12.doppiocdn.live/hls/67380240/67380240_480p.m3u8
 #EXTINF:-1 tvg-id="BeverlyHillbillies.us" tvg-logo="https://i.imgur.com/OV9hT93.png" group-title="Classic",Master
 https://edge-hls.doppiocdn.media/hls/166454098/master/166454098_480p.m3u8
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="Classic",Retrô Cartoon (480p) [Not 24/7]
